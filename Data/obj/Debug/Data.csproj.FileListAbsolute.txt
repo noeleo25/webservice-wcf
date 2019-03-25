@@ -1,0 +1,5 @@
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\Data\bin\Debug\Data.dll
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\Data\bin\Debug\Data.pdb
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\Data\obj\Debug\Data.dll
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\Data\obj\Debug\Data.pdb

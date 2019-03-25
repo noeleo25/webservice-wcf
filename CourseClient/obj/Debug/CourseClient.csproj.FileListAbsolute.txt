@@ -1,0 +1,7 @@
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\bin\Debug\CourseClient.exe.config
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\bin\Debug\CourseClient.exe
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\bin\Debug\CourseClient.pdb
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\obj\Debug\CourseClient.csproj.CoreCompileInputs.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\obj\Debug\CourseClient.exe
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\obj\Debug\CourseClient.pdb
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWS\CourseClient\obj\Debug\CourseClient.csprojAssemblyReference.cache
